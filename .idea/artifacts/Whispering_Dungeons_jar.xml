@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Whispering Dungeons:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Whispering Dungeons.jar">
+      <element id="module-output" name="Whispering Dungeons" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,43 @@
+{
+
+  "full_screen": "false",
+
+  "_comment1": "=-------= Entities =-------=",
+
+  "color_player": "#B200FF",
+
+  "_comment2": "=-------= Tiles =-------=",
+
+  "color_wall_tile_1": "#430087",
+  "color_wall_tile_2": "#430088",
+  "color_wall_tile_3": "#430089",
+  "color_wall_tile_4": "#430090",
+  "color_wall_tile_5": "#430091",
+  "color_wall_tile_6": "#430092",
+  "color_wall_tile_7": "#430093",
+  "color_wall_tile_8": "#430094",
+  "color_wall_tile_9": "#430095",
+
+  "_comment3": "--> Floor",
+
+  "default_floor": "FLOOR_TILE_5",
+  "color_floor_tile_1": "#000000",
+  "color_floor_tile_2": "#000001",
+  "color_floor_tile_3": "#000002",
+  "color_floor_tile_4": "#000003",
+  "color_floor_tile_5": "#000004",
+  "color_floor_tile_6": "#000005",
+  "color_floor_tile_7": "#000006",
+  "color_floor_tile_8": "#000007",
+  "color_floor_tile_9": "#000008",
+  "color_floor_tile_10": "#000009",
+  "color_floor_tile_11": "#0000010",
+  "color_floor_tile_12": "#0000011",
+  "color_floor_tile_13": "#0000012",
+  "color_floor_tile_14": "#0000013",
+  "color_floor_tile_15": "#0000014",
+  "color_floor_tile_16": "#0000015",
+  "color_floor_tile_17": "#0000016",
+  "color_floor_tile_18": "#0000017"
+
+}
